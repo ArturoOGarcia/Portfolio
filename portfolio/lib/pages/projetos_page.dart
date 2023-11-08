@@ -64,7 +64,7 @@ class ProjetosPage extends StatelessWidget {
                         data: "2023", 
                         grupo: "Sim", 
                         descricao: Textos.descAPAE,
-                        url: "https://github.com/BrunnoS1/Code-Quest",),
+                        url: "https://github.com/ArturoOGarcia/Site-APAE.git",),
                       ContainerProj(
                         imagem: AssetImage("assets/imgs/eu.jpg"), 
                         titulo: "Portfolio", 
@@ -73,7 +73,7 @@ class ProjetosPage extends StatelessWidget {
                         data: "2023", 
                         grupo: "Não", 
                         descricao: Textos.descPortfolio,
-                        url: "https://github.com/BrunnoS1/Code-Quest",)
+                        url: "https://github.com/ArturoOGarcia/Portfolio.git",)
                     ]
                   ),
                 )
